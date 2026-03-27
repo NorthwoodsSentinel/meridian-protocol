@@ -148,3 +148,11 @@ MIT. Because the protocol belongs to everyone or it belongs to no one.
 ---
 
 *"The work is the resume. The network is the proof."*
+
+---
+
+## Northwoods Sentinel Labs
+
+Part of the [Northwoods Sentinel Labs](https://northwoodssentinel.com) ecosystem — open-source tools for human-centered AI.
+
+[Blog](https://northwoodssentinel.com) · [Substack](https://substack.com/@chewvala) · [GitHub](https://github.com/NorthwoodsSentinel)
